@@ -9,3 +9,11 @@
 ----------------------------------
 
 3- Kurulumdaki kartal resimleri değişecek
+
+----------------------------------
+
+4- Grub ve os-prober kontrol edilecek
+
+----------------------------------
+
+5- Masaüstü resmi
