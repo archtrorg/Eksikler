@@ -3,3 +3,5 @@
 1- Ses problemi
 
 ----------------------------------
+
+2- Masaüstü kurulum başlatıcı çalıştırılabilir yapılacak
