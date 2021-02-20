@@ -5,3 +5,7 @@
 ----------------------------------
 
 2- Masaüstü kurulum başlatıcı çalıştırılabilir yapılacak
+
+----------------------------------
+
+3- Kurulumdaki kartal resimleri değişecek
