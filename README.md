@@ -22,6 +22,5 @@
 
 6- Mservice çalışmıyor
 
-----------------------------------
 
-7- Stacer derlenecek
+7- Stacer gözden geçirilmeli
